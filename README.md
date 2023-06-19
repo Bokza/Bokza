@@ -31,5 +31,5 @@
  
   <br/>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOREAMANDOO&show_icons=true&theme=shadow_green)
 </div>
