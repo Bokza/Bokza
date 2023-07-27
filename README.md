@@ -31,5 +31,5 @@
  
   <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOREAMANDOO&show_icons=true&theme=shadow_green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOKZA&show_icons=true&theme=shadow_green)
 </div>
