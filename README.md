@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ###  :wave: Welcome my github profile
-  <div align="left"> 
-  ###  :pencil: Record activities related to data science
+ <br/>
+ <br/>
   </div>
   <div align="left">
+  :pencil: Record activities related to data science
   2021
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy:
