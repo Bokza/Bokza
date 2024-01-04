@@ -5,10 +5,8 @@
 ###  :wave: Welcome my github profile
  <br/>
  <br/>
-  </div>
   <div align="left">
   :pencil: Record activities related to data science
-    ####  :clipboard: Once I've Used 
    <br/>
   2021
    <br/>
