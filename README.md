@@ -1,12 +1,11 @@
-<style>
-  body {
-    font-family: 'Nanum Gothic', sans-serif; /* 원하는 폰트로 변경 */
-  }
-</style>
-
 <div align="center"> 
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
+  <style>
+  body {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  </style>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ###  :wave: Welcome my github profile
  <br/>
