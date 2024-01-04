@@ -7,6 +7,8 @@
   
  <br/>
  <br/>
+  :pencil: Record activities related to data science
+  <p style="font-size: 20px;">:pencil: Record activities related to data science</p>
   <div align="left">
   :pencil: Record activities related to data science
   <p style="font-size: 20px;">:pencil: Record activities related to data science</p>
