@@ -5,6 +5,7 @@
 ###  :wave: Welcome my github profile
 
 ###  :pencil: Record activities related to data science
+  <div align="left">
   2021
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy:
