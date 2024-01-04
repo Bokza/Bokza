@@ -6,7 +6,8 @@
  <br/>
  <br/>
   <div align="left">
-  :pencil: Record activities related to data science
+    
+  #### :pencil: Record activities related to data science
    <br/>
   2021
    <br/>
@@ -48,7 +49,8 @@
   2024
    <br/>
   서울시 평균 기온 예측 대회(개인) - 상위 1.3%🥇 8등/624 (Prophet+XGBoost + Optuna, 2023.12.11 ~ 2024.01.02)
-    
+  </div>
+  
   ####  :clipboard: Once I've Used 
     
    <br/>
