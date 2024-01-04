@@ -1,6 +1,6 @@
 <style>
   body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif; /* 원하는 폰트로 변경 */
   }
 </style>
 
