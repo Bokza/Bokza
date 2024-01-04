@@ -52,7 +52,8 @@
    <br/>
    <br/>
 
-<img width="653" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/10165395-064b-4815-a004-5b8c5aefee06">
+<img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
+
 
    
   ### 🎫 License
