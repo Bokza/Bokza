@@ -7,8 +7,7 @@
  <br/>
   <div align="left">
     
-  #### :pencil: Record activities related to data science
-   <br/>
+  ### :pencil: Record activities related to data science
   2021
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy:
