@@ -88,10 +88,11 @@
    <br/>
    <br/>
    </div>
+
+  <br/>
    
 ### :pencil2: Study log
  
-  <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOKZA&show_icons=true&theme=shadow_green)
 </div>
