@@ -48,7 +48,6 @@
   2024
    <br/>
   서울시 평균 기온 예측 대회(개인) - 상위 1.3%🥇 8등/624 (Prophet+XGBoost + Optuna, 2023.12.11 ~ 2024.01.02)
-  </div>
   
   ####  :clipboard: Once I've Used 
     
@@ -87,7 +86,8 @@
   </div>
    <br/>
    <br/>
- 
+   </div>
+   
 #### :pencil2: Study log
  
   <br/>
