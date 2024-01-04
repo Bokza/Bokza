@@ -7,9 +7,36 @@
   
  <br/>
  <br/>
+
+#### :pencil: Record activities related to data science
+
+2021
+교내 통계경진대회 회귀분석 부문 최우수상 :trophy:
+통계학과 수석
+
+2022
+행전안전부 주관 데이터 분석 청년인재 양성 교육 수료
+"그린 허브" 자동 분리수거 쓰레기통 개발 및 최적입지 선정(팀) (ResNet, TSP)
+롯데 멤버스 빅데이터 경진대회 참여(팀) - 이탈고객 예측 (LGBM)
+쇼핑몰 지점별 매출액 예측 경진대회(개인) - 상위 20% 마감
+
+2023
+추천 검색어, 챗봇 개발(개인) (Word2Vec, NLP)
+API 자동 적재 시스템 개발(개인) (postgreSQL)
+Linux Ubuntu Sever 매뉴얼 작성
+
+저수지 수위 예측 프로젝트(팀) (LTSF-Linear, HampelFilter, ~2024.01)
+저수지 수위 예측 프로젝트 화면 개발 (FastAPI)
+저수지 수위 예측 프로젝트 가상환경 구축 (VirtualBox, Linux)
+
+제주 특산물 가격 예측 AI 경진대회(개인) - 상위 8.6%🥉 마감 96등/1093 (AutoGloun, 2023.10.26 ~ 2023.11.20)
+학습 플랫폼 구독자 예측 대회(개인) - 우승🏆 1등/380 (Multi-Layer-Perceptron + Target Encoding, 2023.11.22 ~ 2023.12.11)
+
+2024
+서울시 평균 기온 예측 대회(개인) - 상위 1.3%🥇 8등/624 (Prophet+XGBoost + Optuna, 2023.12.11 ~ 2024.01.02)
   
 ####  :clipboard: Once I've Used 
-  ❤️
+  
  <br/>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
