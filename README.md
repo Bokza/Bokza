@@ -1,12 +1,18 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+
 ###  :wave: Welcome my github profile
  <br/>
  <br/>
   <div align="left">
-    
+
+  ### ☁️ Introduce ☁️
+   <br/>
+  안녕하세요!
+   <br/>
+  데이터 사이언티스트를 꿈꾸는 이재복입니다.
+      
   ### :pencil: Record activities related to data science
   2021
    <br/>
