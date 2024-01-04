@@ -47,6 +47,8 @@
    <br/>
   Linux Ubuntu Sever 매뉴얼 작성
    <br/>
+  로또 API를 이용한 다음주 로또 번호 예측 소스 구현 (LSTM, 재미용)
+   <br/>
   저수지 수위 예측 프로젝트(팀) (LTSF-Linear, HampelFilter, ~2024.01)
    <br/>
   저수지 수위 예측 프로젝트 화면 개발 (FastAPI)
