@@ -110,6 +110,7 @@
    <br/>
    <br/>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows95-008080?style=for-the-badge&logo=Windows95&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/LinuxServer-DA3B8A?style=for-the-badge&logo=LinuxServer&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
