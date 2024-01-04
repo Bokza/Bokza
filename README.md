@@ -9,7 +9,7 @@
  <br/>
 
   <div align="left">
-  <span style="font-size:xx-large;">:pencil: Record activities related to data science</span>
+  #:pencil: Record activities related to data science</span>
   
   2021
    <br/>
@@ -20,9 +20,9 @@
    <br/>
   2022
    <br/>
-  행전안전부 주관 데이터 분석 청년인재 양성 교육 수료
+  행안전부 주관 데이터 분석 청년인재 양성 교육 수료
    <br/>
-  "그린 허브" 자동 분리수거 쓰레기통 개발 및 최적입지 선정(팀) (ResNet, TSP)
+  "그린 허브" 자동 분리수거 쓰레기통 개발 및 최적 입지 선정(팀) (ResNet, TSP)
    <br/>
   롯데 멤버스 빅데이터 경진대회 참여(팀) - 이탈고객 예측 (LGBM)
    <br/>
