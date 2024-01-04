@@ -8,11 +8,14 @@
   <div align="left">
 
   ### ☁️ Introduce ☁️
-   <br/>
   안녕하세요!
    <br/>
   데이터 사이언티스트를 꿈꾸는 이재복입니다.
-      
+   <br/>
+  주로 정형, 시계열 예측 모델링에 관심있고 경험을 쌓고 있습니다.
+   <br/>
+  Email : woqhr9805@gmail.com
+  
   ### :pencil: Record activities related to data science
   2021
    <br/>
