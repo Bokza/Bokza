@@ -13,7 +13,7 @@
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy:
    <br/>
-  <p style="font-size: 24px; font-family: 'Arial', sans-serif;">통계학과 수석</p>
+  <p style="font-size: 48px; font-family: 'Arial', sans-serif;">통계학과 수석</p>
    <br/>
    <br/>
   2022
