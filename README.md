@@ -7,9 +7,9 @@
   
  <br/>
  <br/>
-  ###  :wave: Welcome my github profile
   <div align="left">
-  :pencil: Record activities related to data science</span>
+  :pencil: Record activities related to data science
+  <p style="font-size: 20px;">:pencil: Record activities related to data science</p>
   
   2021
    <br/>
