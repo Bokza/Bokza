@@ -9,7 +9,7 @@
  <br/>
 
   <div align="left">
-  :pencil: Record activities related to data science
+  #### <span style="font-size:larger;"> :pencil: Record activities related to data science
   
   2021
    <br/>
