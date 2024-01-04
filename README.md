@@ -89,7 +89,7 @@
    <br/>
    </div>
    
-#### :pencil2: Study log
+### :pencil2: Study log
  
   <br/>
   
