@@ -52,7 +52,8 @@
 
 <img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
 
-
+   <br/>
+   <br/>
    
   ### 🎫 License
   컴퓨터활용능력 1급
