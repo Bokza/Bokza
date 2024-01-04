@@ -4,7 +4,9 @@
   
 ###  :wave: Welcome my github profile
 
-  
+:pencil: Record activities related to data science
+<p style="font-size: 20px;">:pencil: Record activities related to data science</p>
+
  <br/>
  <br/>
   :pencil: Record activities related to data science
