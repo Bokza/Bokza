@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  <br/>
+ <br/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
