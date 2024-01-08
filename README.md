@@ -23,7 +23,7 @@
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy: (유튜브 구독자수에 대한 회귀식 추론, 2021.10 ~ 2021.12)
    <br/>
-  "SAS Viya로 Machine Learning 따라하기" 교육 수료 (2021.12.20)
+  "SAS Viya로 Machine Learning 따라하기" SAS 본사 교육 수료 (2021.12.20)
    <br/>
   통계학과 수석
    <br/>
