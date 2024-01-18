@@ -18,7 +18,7 @@
    <br/>
    <br/>
    
-  ### :pencil: Record activities related to data science
+  ### :pencil: Activities related to data science
   2021
    <br/>
   교내 통계경진대회 회귀분석 부문 최우수상 :trophy: (유튜브 구독자수에 대한 회귀식 추론, 2021.10 ~ 2021.12)
