@@ -68,6 +68,7 @@
    <br/>
   고객 등급 분류 대회(개인) - 상위 0.9% 🥇 7등/784 (RandomForest, 2024.01.15 ~ 2024.02.05)
    <br/>
+  모델 튜닝 챌린지 : 월간 데이콘 파일럿(개인) - Public 1등/359 (RandomForest, 2024.03.11 ~ 2024.04.08)
    <br/>
 
 <img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
