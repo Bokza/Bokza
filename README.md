@@ -71,6 +71,11 @@
   모델 튜닝 챌린지 : 월간 데이콘 파일럿(개인) - Public 1등/359 (RandomForest, 2024.03.11 ~ 2024.04.08)
    <br/>
 
+  2025 계획 
+  1. ADP 공부
+  2. 데이콘 대회 1회 수상
+  3. 사이드 프로젝트 - 오토 트레이딩
+
 <img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
 
    <br/>
