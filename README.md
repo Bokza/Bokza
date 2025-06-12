@@ -77,7 +77,7 @@
    <br/>
    건물 에너지 사용량 예측 모델 개발 및 배포 - **(pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )**
    <br/>
-  기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + Optuna, 2025.04.01 ~ 2025.05.30)**
+  기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
 
 <img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
 
