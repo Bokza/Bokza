@@ -51,7 +51,7 @@
    <br/>
   로또 API를 이용한 다음주 로또 번호 예측 소스 구현 (LSTM, Prophet, 재미용)
    <br/>
-  저수지 수위 예측 프로젝트(팀) (LTSF-Linear, HampelFilter, MariaDB, Oracle, 2023.07 ~ 2024.01)
+  저수지 수위 예측 프로젝트(회사) (LTSF-Linear, HampelFilter, MariaDB, Oracle, 2023.07 ~ 2024.01)
    <br/>
   저수지 수위 예측 프로젝트 화면 개발 (FastAPI)
    <br/>
@@ -73,9 +73,9 @@
    <br/>
   2025
    <br/>
-  재실여부 및 재실률 예측 모델 개발(회사) - (HMM, Scaling, Bento, Docker, AWS 2024.11 ~ )
+  재실여부 및 재실률 예측 모델 개발 및 배포(회사) - (HMM, Scaling, Bento, Docker, AWS 2024.11 ~ )
    <br/>
-   건물 에너지 사용량 예측 모델 개발(회사) - (pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )
+   건물 에너지 사용량 예측 모델 개발 및 배포(회사) - (pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )
    <br/>
   기업 성공 확률 예측 대회(개인) - 우승🏆 1등/590 (RandomForest + Optuna, 2025.04.01 ~ 2025.05.30)
 
