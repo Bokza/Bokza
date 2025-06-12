@@ -51,33 +51,33 @@
    <br/>
   로또 API를 이용한 다음주 로또 번호 예측 소스 구현 (LSTM, Prophet, 재미용)
    <br/>
-  저수지 수위 예측 프로젝트(회사) (LTSF-Linear, HampelFilter, MariaDB, Oracle, 2023.07 ~ 2024.01)
+  저수지 수위 예측 프로젝트 **(LTSF-Linear, HampelFilter, MariaDB, Oracle, 2023.07 ~ 2024.01)**
    <br/>
   저수지 수위 예측 프로젝트 화면 개발 (FastAPI)
    <br/>
   저수지 수위 예측 프로젝트 가상환경 구축 (VirtualBox, Linux)
    <br/>
-  제주 특산물 가격 예측 AI 경진대회(개인) - 상위 8.6%🥉 96등/1093 (AutoGluon, 2023.10.26 ~ 2023.11.20)
+  제주 특산물 가격 예측 AI 경진대회(개인) - **상위 8.6%🥉 96등/1093 (AutoGluon, 2023.10.26 ~ 2023.11.20)**
    <br/>
-  학습 플랫폼 구독자 예측 대회(개인) - 우승🏆 1등/380 (Multi-Layer-Perceptron + Target Encoding, 2023.11.22 ~ 2023.12.11)
+  학습 플랫폼 구독자 예측 대회(개인) - **우승🏆 1등/380 (Multi-Layer-Perceptron + Target Encoding, 2023.11.22 ~ 2023.12.11)**
    <br/>
    <br/>
   2024
    <br/>
-  서울시 평균 기온 예측 대회(개인) - 상위 0.6%🥇 4등/624 (Prophet+XGBoost + Optuna, 2023.12.11 ~ 2024.01.02)
+  서울시 평균 기온 예측 대회(개인) - **상위 0.6%🥇 4등/624 (Prophet+XGBoost + Optuna, 2023.12.11 ~ 2024.01.02)**
    <br/>
-  고객 등급 분류 대회(개인) - 상위 0.9% 🥇 7등/784 (RandomForest, 2024.01.15 ~ 2024.02.05)
+  고객 등급 분류 대회(개인) - **상위 0.9% 🥇 7등/784 (RandomForest, 2024.01.15 ~ 2024.02.05)**
    <br/>
   모델 튜닝 챌린지 : 월간 데이콘 파일럿(개인) - Public 1등/359 (RandomForest, 2024.03.11 ~ 2024.04.08)
    <br/>
    <br/>
   2025
    <br/>
-  재실여부 및 재실률 예측 모델 개발 및 배포(회사) - (HMM, Scaling, Bento, Docker, AWS 2024.11 ~ )
+  재실여부 및 재실률 예측 모델 개발 및 배포 - **(HMM, Scaling, Bento, Docker, AWS 2024.11 ~ )**
    <br/>
-   건물 에너지 사용량 예측 모델 개발 및 배포(회사) - (pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )
+   건물 에너지 사용량 예측 모델 개발 및 배포 - **(pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )**
    <br/>
-  기업 성공 확률 예측 대회(개인) - 우승🏆 1등/590 (RandomForest + Optuna, 2025.04.01 ~ 2025.05.30)
+  기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + Optuna, 2025.04.01 ~ 2025.05.30)**
 
 <img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
 
