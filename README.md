@@ -73,9 +73,9 @@
    <br/>
   2025
    <br/>
-  건물 재실여부 및 재실률 예측 모델 개발 및 배포 - **(HMM, Scaling, Bento, Docker, AWS 2024.11 ~ )**
+  건물 재실여부 및 재실률 예측 모델 개발 및 배포 - **(HMM, Scaling, Spark, Bento, Docker, AWS 2024.11 ~ )**
    <br/>
-   건물 에너지 사용량 예측 모델 개발 및 배포 - **(Pytorch, SegRNN, Bento, Docker, AWS 2025.01 ~ )**
+   건물 에너지 사용량 예측 모델 개발 및 배포 - **(Pytorch, SegRNN, Spark, Bento, Docker, AWS 2025.01 ~ )**
    <br/>
   기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
 
