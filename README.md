@@ -76,7 +76,7 @@
    <br/>
    건물 에너지 사용량 예측 모델 개발 및 배포 - **(Pytorch, SegRNN, Spark, Bento, Docker, AWS, 2025.01 ~ )**
    <br/>
-  기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
+  기업 성공 확률 예측 대회(개인) - **우승🏆 1등/592 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
 
 <table>
   <tr>
