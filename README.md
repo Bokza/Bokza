@@ -1,5 +1,4 @@
-<img width="2108" alt="기업성공확률예측해커톤_수상_1 (1)" src="https://github.com/user-attachments/assets/fa8213ef-b4d3-4f0a-9fb1-6b42bf7057ce" /><div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ###  :wave: Welcome my github profile
