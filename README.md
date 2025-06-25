@@ -79,7 +79,12 @@
    <br/>
   기업 성공 확률 예측 대회(개인) - **우승🏆 1등/590 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
 
-<img width="692" alt="image" src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b">
+<table>
+  <tr>
+    <td><img src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/74a0c701-c7e5-4733-8fe9-cad849c73f13" width="400"/></td>
+  </tr>
+</table>
 
    <br/>
    <br/>
