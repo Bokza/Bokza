@@ -1,4 +1,4 @@
-<div align="center">
+<img width="2108" alt="기업성공확률예측해커톤_수상_1 (1)" src="https://github.com/user-attachments/assets/fa8213ef-b4d3-4f0a-9fb1-6b42bf7057ce" /><div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Data%20Science&fontColor=fffdf3&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
@@ -82,7 +82,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/Bokza/Bokza/assets/107051648/b74fef3b-54eb-4d85-bd76-486220f0188b" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/74a0c701-c7e5-4733-8fe9-cad849c73f13" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5f2f4335-1bbe-4682-bdf2-a5a06a36d60b" width="400"/></td>
   </tr>
 </table>
 
