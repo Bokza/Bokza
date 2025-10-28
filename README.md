@@ -77,6 +77,9 @@
    건물 에너지 사용량 예측 모델 개발 및 배포 - **(Pytorch, SegRNN, Spark, Bento, Docker, MLflow, AWS, 2025.01 ~ )**
    <br/>
   기업 성공 확률 예측 대회(개인) - **우승🏆 1등/592 (RandomForest + GridSearch, 2025.04.01 ~ 2025.05.30)**
+   <br/>
+   냉난방기 자동제어 강화학습 DQN 모델 개발 및 배포 - **(Pytorch, Reinforcement Learning, DQN, Airflow, 2025.10 ~ )**
+  
 
 <table>
   <tr>
