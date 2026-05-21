@@ -13,10 +13,9 @@
    <br/>
   주로 분류, 회귀, 시계열 예측 모델링에 관심있고 경험을 쌓고 있습니다.
    <br/>
-   포트폴리오: https://ds-portfolio-white.vercel.app/
-
-   <br/>
   ✉ woqhr9805@gmail.com
+   <br/>
+   포트폴리오: https://ds-portfolio-white.vercel.app/
    <br/>
    
   ### :pencil: Activities related to data science
