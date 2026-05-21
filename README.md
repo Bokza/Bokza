@@ -15,6 +15,7 @@
    <br/>
   ✉ woqhr9805@gmail.com
    <br/>
+   포트폴리오: https://ds-portfolio-white.vercel.app/
    <br/>
    
   ### :pencil: Activities related to data science
